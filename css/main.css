@@ -21,6 +21,9 @@ a {
 	font-weight: bold
 }
 
+code {
+    background: hsl(0, 80%, 90%);
+}
 
 /*! TACHYONS v4.11.1 | http://tachyons.io */
 
