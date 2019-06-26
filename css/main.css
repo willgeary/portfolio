@@ -982,7 +982,8 @@ img {
 }
 
 .flex-wrap-reverse {
-	flex-wrap: wrap-reverse
+	flex-wrap: wrap-reverse;
+	min-height: fit-content;
 }
 
 .flex-column-reverse {
